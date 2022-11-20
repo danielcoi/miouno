@@ -2,3 +2,7 @@ estabilidad
 analisis matematico II
 probabilidad y estadisttica
 fisica II
+finales:
+analisis I
+quimica
+otra..
